@@ -5,8 +5,9 @@
 
 <!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/QzUJkHf.gif" width="700" alt="Matrix rain custom animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/matrix-rain.gif" width="700" alt="Matrix rain animation" />
 </p>
+
 
 <!-- Snake / Contribution Animation -->
 <p align="center">
