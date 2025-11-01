@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+Up,+Developer...;The+Matrix+Has+You...;Follow+the+Green+Code...;Initializing+Your+Digital+Realm..." alt="Matrix typing animation" />
 </h1>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw5d2V0M2Zidmp6ODMxcDU0anB2c2FpOGxvN2FwMHptMXQ0cHFhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif" width="700" alt="Matrix rain animation">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw5d2V0M2Zidmp6ODMxcDU0anB2c2FpOGxvN2FwMHptMXQ0cHFhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif" width="7000" alt="Matrix rain animation">
 
 
 
