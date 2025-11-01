@@ -1,3 +1,7 @@
+
+<!-- =============================== -->
+<!--     GITHUB PROFILE README      -->
+<!-- =============================== -->
 <p align="center">
   <img src="https://i.gifer.com/origin/6d/6d86a8dcb3b1f0eb6b6cba3ac9a870a7_w200.gif" width="600" alt="Matrix rain animation" />
 </p>
@@ -11,9 +15,6 @@
 
 
 
-<!-- =============================== -->
-<!--     GITHUB PROFILE README      -->
-<!-- =============================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
