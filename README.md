@@ -3,10 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+Up,+Developer...;The+Matrix+Has+You...;Follow+the+Green+Code...;Initializing+Your+Digital+Realm..." alt="Matrix typing animation" />
 </h1>
 
-<!-- Matrix Rain GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/matrix-rain.gif" width="700" alt="Matrix rain animation" />
-</p>
+<img src="DIRECT_GIF_LINK_HERE" width="700" alt="Matrix rain animation">
+
 
 
 <!-- Snake / Contribution Animation -->
