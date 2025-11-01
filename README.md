@@ -1,6 +1,19 @@
 <!-- =============================== -->
 <!--     GITHUB PROFILE README      -->
 <!-- =============================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</p>
+
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="250px">
+</p>
+
+<p align="center">
+  <b>💻 Software Engineer | 🚀 Builder | ☁️ Cloud Enthusiast</b>
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+YOUR_NAME;A+Passionate+Software+Engineer+from+Planet+Code🌍;Full+Stack+Developer+%7C+Cloud+Architect+%7C+AI+Explorer" alt="Typing SVG" />
