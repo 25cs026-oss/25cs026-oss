@@ -1,60 +1,53 @@
 <!-- =============================== -->
-<!--        GITHUB PROFILE README     -->
+<!--     GITHUB PROFILE README      -->
 <!-- =============================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+YOUR_NAME!;A+Passionate+Software+Engineer+from+Planet+Code🌍;Lifelong+Learner+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+YOUR_NAME;A+Passionate+Software+Engineer+from+Planet+Code🌍;Full+Stack+Developer+%7C+Cloud+Architect+%7C+AI+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/kd0xWpj.gif" width="400" alt="developer at work" />
+  <img src="https://i.imgur.com/A6bWGFl.gif" width="300" />
 </p>
 
 ---
 
-## 🧭 About Me  
+## 🧠 About Me  
 
-💡 I’m a **Software Engineer** who thrives on solving complex problems through code.  
-From crafting robust APIs and building data pipelines to designing interactive user interfaces —  
-I live for the *art of engineering elegant, scalable, and maintainable solutions.*  
+💡 I’m a **Software Engineer** who’s obsessed with creating things that live on the internet — whether that’s apps, systems, or ideas.  
 
-🔭 **Currently Exploring:**  
-- Cloud-native development with **AWS**, **Docker**, and **Kubernetes**  
-- **AI/ML-driven systems** for automation and productivity  
-- High-performance **microservices** architecture  
+🎯 **Mission:** To build **clean, scalable, and intelligent** systems that empower users and developers alike.  
+
+⚡ **I specialize in:**
+- Full-stack web applications  
+- Distributed systems & cloud architectures  
+- AI integrations and automation tools  
 
 🧩 **Philosophy:**  
-> *“Great software isn’t just built — it’s engineered with curiosity, creativity, and care.”*  
-
-👨‍💻 I love collaborating with other engineers, mentoring newcomers, and continuously improving both *myself and the code I write.*  
-
-🌱 I’m deeply interested in:  
-- **System Design & Distributed Systems**  
-- **Automation and DevOps Pipelines**  
-- **AI integrations and edge computing**  
+> *"Write code as if the next person maintaining it knows where you live."*  
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
-<h3 align="center">🧠 Languages</h3>
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,go,rust" />
 </p>
 
 <h3 align="center">⚙️ Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,django,fastapi,flask,angular" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flask,spring" />
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,sqlite" />
 </p>
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,terraform,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,terraform" />
 </p>
 
 <h3 align="center">🧰 Tools & Platforms</h3>
@@ -64,45 +57,34 @@ I live for the *art of engineering elegant, scalable, and maintainable solutions
 
 ---
 
-## 🚀 Current Focus Areas  
+## 🌍 Current Focus  
 
-- ⚙️ **Architecting Back-End Systems** — Scalable, modular, and fault-tolerant services.  
-- 🌐 **Full-Stack Engineering** — Building modern web apps with React + Node/FastAPI.  
-- ☁️ **Cloud Infrastructure** — Designing containerized deployments using AWS & Docker.  
-- 🤖 **AI/Automation** — Integrating machine learning and automation into apps.  
-- 🧩 **Performance Optimization** — Profiling, caching, and system tuning.  
+- Architecting **microservices-based systems**  
+- Integrating **AI APIs** into production-level apps  
+- Exploring **serverless computing** and **cloud-native tools**  
+- Automating deployments with **CI/CD pipelines**  
 
 ---
 
-## 💼 Featured Projects  
+## 🧩 Featured Projects  
 
-### 🔹 [Project 1: CloudServe](#)
-**Microservices Management Platform**  
-> Built a distributed platform to manage cloud deployments with **Spring Boot**, **Docker**, and **Kubernetes**.  
-🔸 Features:
-- Auto-scaling containerized apps  
-- Real-time system monitoring  
-- CI/CD deployment pipelines  
+### 🔹 [CloudServe](#)
+A **multi-tenant cloud management platform** using **Spring Boot**, **Docker**, and **Kubernetes**.  
+✅ Auto-deploy containers  
+✅ Monitor services in real time  
+✅ Implements OAuth2.0 & JWT security  
 
-### 🔹 [Project 2: DevTracker](#)
-**Productivity Suite for Developers**  
-> Full-stack web app with **React**, **FastAPI**, and **PostgreSQL** for tracking projects and commits.  
-🔸 Features:
-- Integration with GitHub API  
-- Task analytics and team dashboards  
-- JWT-based authentication system  
+### 🔹 [DevTracker](#)
+A **productivity suite for developers**, powered by **React**, **FastAPI**, and **PostgreSQL**.  
+✅ Real-time GitHub API integration  
+✅ Team-based analytics dashboard  
+✅ Task scheduling & performance metrics  
 
-### 🔹 [Project 3: AI Code Reviewer](#)
-**AI-Driven Code Assistant**  
-> Developed using **Python**, **OpenAI API**, and **FastAPI** to automatically detect and fix common code smells.  
-🔸 Features:
-- Smart linting & style recommendations  
-- AI-powered review summaries  
-- Integration with CI/CD pipelines  
-
-### 🔹 [Project 4: TaskPulse](#)
-**Real-time Collaboration Tool**  
-> Built with **Node.js**, **Socket.io**, and **MongoDB** for live project collaboration and messaging.  
+### 🔹 [AI Code Reviewer](#)
+An **AI-driven review bot** built with **Python**, **OpenAI API**, and **FastAPI**.  
+✅ Auto-detects code smells  
+✅ Suggests performance improvements  
+✅ Seamless integration into GitHub workflows  
 
 ---
 
@@ -123,74 +105,47 @@ I live for the *art of engineering elegant, scalable, and maintainable solutions
 
 ---
 
-## 🧩 Work Philosophy  
+## 🏆 Achievements  
 
-💬 “Software Engineering is 10% typing and 90% thinking.”  
-I believe in writing code that others enjoy reading — well-documented, maintainable, and scalable.  
-
-✅ I practice:
-- **Clean Code & SOLID Principles**  
-- **TDD & Continuous Integration**  
-- **Agile Development & Code Reviews**  
-- **Security-first Architecture**  
+- 🥇 **Top Open Source Contributor**  
+- 🧠 Creator of automation tools used by 1k+ developers  
+- 💡 Contributed to AI-driven software projects  
+- 👨‍🏫 Mentor for full-stack and cloud enthusiasts  
 
 ---
 
-## 📚 Continuous Learning  
+## 🧩 Fun Facts  
 
-> “A day without learning is a day wasted.”  
-
-Currently exploring:  
-- ⚡ **Serverless Computing**  
-- 🧠 **AI-driven Software Development**  
-- 🔐 **Cybersecurity in Distributed Systems**  
-- 🌐 **Web3 and Blockchain APIs**  
-
-Books on my desk:
-- *Clean Architecture* — Robert C. Martin  
-- *Designing Data-Intensive Applications* — Martin Kleppmann  
-- *The Pragmatic Programmer* — Hunt & Thomas  
+- ☕ Coffee → Code → Repeat  
+- 🧩 Debugging is my form of meditation  
+- 🎮 Gamer | 🎧 Music lover | 📸 Photographer  
+- 💭 “Every bug is a hidden feature waiting to be found.”  
 
 ---
 
-## 🧠 Random Facts  
-
-🧩 I consider debugging an art form.  
-☕ Coffee powers my logic loops.  
-🎮 Gamer | 🎵 Music lover | 📸 Photographer  
-🌌 “In code, as in life, clarity is power.”  
-
----
-
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏆 Achievements & Contributions  
-
-- 🥇 **Top Open-Source Contributor** on multiple repositories.  
-- 💡 Built open-source tools used by developers worldwide.  
-- 🧠 Contributed to AI and automation research projects.  
-- 👨‍🏫 Mentored students & junior devs in full-stack development.  
-
----
-
-## 🏁 Fun Ending Animation  
+## 🐍 Contribution Snake Animation  
 
 <p align="center">
-  <img src="https://i.imgur.com/6g7bR1u.gif" width="350" alt="coding gif" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+🚀;Let's+build+something+amazing+together!;Code.+Create.+Innovate.">
-</h3>
+---
 
-<p align="center">⭐ <b>If you like my work, give my repositories a star!</b> ⭐</p>
+## 🎯 Final Words  
+
+> “Technology is best when it brings people together. I code to connect ideas, systems, and people.”  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Code.+Create.+Inspire.">
+</p>
