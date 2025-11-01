@@ -12,10 +12,7 @@
   <img src="https://i.imgur.com/9YjKc1b.gif" width="600" alt="Matrix rain unique animation" />
 </p>
 
-<!-- Loading Bar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/loading-bar.gif" width="400" alt="loading bar" />
-</p>
+
 
 <!-- Terminal Style -->
 <p align="center">
