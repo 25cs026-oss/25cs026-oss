@@ -1,3 +1,25 @@
+
+<h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">Your Name</span></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architect;AI+Automation+Enthusiast" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50" alt="loading spinner">  
+  <b><i>Loading next big project...</i></b>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/VAyR.gif" width="400" alt="gradient loader">
+</p>
+
+
+
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="60" height="60" alt="loading spinner">
 </p>
