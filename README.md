@@ -1,13 +1,6 @@
-
-
-<h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">Kirtan Kakadiya</span></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architect;AI+Automation+Enthusiast" alt="Typing Animation" />
+  <img src="https://i.gifer.com/origin/6d/6d86a8dcb3b1f0eb6b6cba3ac9a870a7_w200.gif" width="600" alt="Matrix rain animation" />
 </p>
-
-
-
 
 
 <p align="center">
