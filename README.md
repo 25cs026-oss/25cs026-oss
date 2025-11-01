@@ -9,3 +9,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up,+developer...;Follow+the+white+cursor...;The+Matrix+has+you.">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/matrix-rain.gif" width="600" alt="Matrix rain animation" />
+</p>
+
