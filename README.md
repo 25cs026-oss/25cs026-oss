@@ -1,12 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Your Name</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architect;AI+Explorer" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/loading-bar.gif" width="400" alt="loading bar" />
-</p>
 
 <h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">Kirtan Kakadiya</span></h1>
 
