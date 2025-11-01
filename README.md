@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">Your Name</span></h1>
+<h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">Kirtan Kakadiya</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architect;AI+Automation+Enthusiast" alt="Typing Animation" />
@@ -10,6 +10,7 @@
 
 
 <p align="center">
+  <b>Loading...</b><br>
   <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/loading-bar.gif" width="400" alt="loading bar" />
 </p>
 
