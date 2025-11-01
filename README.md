@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+Up,+Developer...;The+Matrix+Has+You...;Follow+the+Green+Code...;Initializing+Your+Digital+Realm..." alt="Matrix typing animation" />
 </h1>
 
-<img src="DIRECT_GIF_LINK_HERE" width="700" alt="Matrix rain animation">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftk.wikipedia.org%2Fwiki%2FFa%25C3%25BDl%3ADigital_rain_animation_small_letters_clear.gif&psig=AOvVaw1Ecnc40YAofpFKgOz54L7P&ust=1762075691428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDttpzR0JADFQAAAAAdAAAAABAE" width="700" alt="Matrix rain animation">
 
 
 
