@@ -37,7 +37,7 @@ student@cse-core-terminal:~$ curl -s https://api.github.com/users/25cs026-oss | 
 ```
 > I am a **2nd Year Computer Science & Engineering** student who is passionate about backend systems, algorithms, database optimization, and interactive application design. I enjoy understanding how code behaves at the memory level (C/C++), scripting quick automation solutions (Python), and structuring high-performance data systems (SQL, TypeScript, JavaScript).
 
-*   🎓 **Current Degree**: Bachelor of Technology / BE in Computer Science & Engineering (Sophomore)
+*   🎓 **Current Degree**: Bachelor of Technology in Computer Science & Engineering (Sophomore)
 *   💻 **Interests**: Data Structures, Systems Programming, Database Internals, Frontend/Backend Integration
 *   🎯 **Current Focus**: Mastering graph theory algorithms, SQL query execution plans, and object-oriented design patterns.
 *   💬 **Ask Me About**: C++, Python script automations, SQL queries, or DSA problems!
